@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::{collections::HashMap, str::FromStr};
 
 const TEST_INPUT: &str = include_str!("../../inputs/day11/test.txt");
 const TEST2_INPUT: &str = include_str!("../../inputs/day11/test2.txt");

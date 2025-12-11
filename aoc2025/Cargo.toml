@@ -5,4 +5,5 @@ edition = "2024"
 
 [dependencies]
 good_lp = { version = "1.14.2", features = ["lpsolve"], default-features = false }
+itertools = "0.14.0"
 serde = { version = "1.0.228", features = ["derive"] }
